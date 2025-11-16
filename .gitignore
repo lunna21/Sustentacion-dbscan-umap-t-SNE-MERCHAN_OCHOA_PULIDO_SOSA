@@ -25,11 +25,3 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Data files (opcional, descomentar si no quieres subir datos grandes)
-# data/*.csv
-# data/*.xlsx
-
-# Results (opcional, descomentar si no quieres subir resultados)
-# results/figures/*.png
-# results/figures/*.jpg
-# results/metrics/*.json
