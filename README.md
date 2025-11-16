@@ -3,7 +3,7 @@
 
 ---
 <p align="center"> <img src="https://img.shields.io/badge/Proyecto-Académico-blue?style=flat-square"> <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Algoritmos-DBSCAN%20%7C%20UMAP%20%7C%20tSNE-red?style=flat-square"> <img src="https://img.shields.io/badge/Python-3.10+-green?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/Licencia-Académica-lightgrey?style=flat-square"> </p>
----
+
 ## Objetivo del Proyecto
 
 Implementar y comparar técnicas de reducción dimensional (t-SNE y UMAP) aplicadas a clustering basado en densidad (DBSCAN), mediante experimentación sistemática de hiperparámetros y evaluación cuantitativa de resultados.
