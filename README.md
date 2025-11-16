@@ -120,7 +120,3 @@ Las tablas comparativas en cada fase proporcionan métricas cuantitativas para t
 - Sosa Espitia, Lunna Karina
 
 ---
-
-## Licencia
-
-Proyecto académico - Universidad
